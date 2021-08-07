@@ -1,1 +1,1 @@
-abc learning;
+const b;
